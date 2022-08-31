@@ -1,0 +1,1 @@
+Shell basics directory with all basic shell scripts
