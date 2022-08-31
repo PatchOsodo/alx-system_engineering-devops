@@ -1,0 +1,1 @@
+Introduction to bash, basic bash scripts to carry out daily tasks
