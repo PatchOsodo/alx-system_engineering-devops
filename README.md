@@ -1,1 +1,1 @@
-Introduction to bash, basic bash scripts to carry out daily tasks
+Introduction to shell permissions
